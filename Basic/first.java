@@ -1,0 +1,6 @@
+//1) Write a Program to  print  "Hello, World!"
+public class first{
+	public static void main(String args[]){
+		System.out.println("Hello world!");
+	}
+}
