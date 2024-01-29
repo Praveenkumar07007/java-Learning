@@ -8,10 +8,10 @@ public class first{
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
 		if(a%2==0){
-			System.out.println("you entered number "+(a)+"is even number.");
+			System.out.println("you entered number "+(a)+" is even number.");
 		}
 		else{
-			System.out.println("Your entered number "+(a)+"is odd number.");
+			System.out.println("Your entered number "+(a)+" is odd number.");
 		}
 	}
 }
